@@ -15,7 +15,7 @@ You need (beside the PCB...):
 ## Some remarks:
 - It's my first KiCad board, so a lot of things will be wrong (i assume...)
 - Since i use https://aisler.com to produce the PCB and Aisler allows to simply upload the _pcb file from KiCad, all the Gerber stuff is untested. So don't simply upload the gerber files. Setup KiCad 8 and create your own gerber files
-- KiCad 8.0.5 was used
+- KiCad 8.0.4 was used
 - Since i didn't find the right MagJack in KiCad i had to edit the Symbol for one of the MagJack available in KiCad. What i did was reordering R1-R8. Thats why there is a custom lib. And also you need the Teensy Lib which i've found somewhere in the internet. 
 - I do not sell any PCB's
 
