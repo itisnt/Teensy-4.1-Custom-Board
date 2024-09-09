@@ -4,7 +4,8 @@ Simple Board for a Teensy 4.1 with Ethernet, 2 x I2C ports and a port with RX1/T
 
 You need (beside the PCB...):
 - A Teensy 4.1 board https://www.pjrc.com/store/teensy41.html
-- The Ethernet kit https://www.pjrc.com/store/ethernet_kit.html (you need the MagJack, the capcitor and mybe the headers)
+- The Ethernet kit https://www.pjrc.com/store/ethernet_kit.html (you need the MagJack, the capcitor and maybe the headers)
+- Additional sockets and headers to make the Teensy removable. 
 - If you use I2C, you should add the two SMD 0603 resistors (1 - 10kohm). There are internal pull-ups in the Teensy, but they are quite weak
 
 ![Board in use as a sensor board](Board01.png)
